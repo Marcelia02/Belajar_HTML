@@ -130,7 +130,37 @@ th {
 <p> My Note <a href ="note.html">Klik disini</a> </p>
 
 </center> 
-</body>
-</head>
+<html>
+<head>
+<style>
+div {
+  border: 5px solid gray;
+  padding: 8px;
+}
 
-</html>
+h1 {
+	text-align : center ;
+	text-transform : uppercase ;
+	color : Pink ;
+}
+
+p {
+	text-indent : 50px ;
+	text-align : justify ;
+	letter-spacing : 3px ;
+}
+
+</style>
+</head>
+<body>
+	<h1> Note </h1>
+<div>
+		<li>Senin sampai Jumat : kuliah pagi</li>
+            <li>Hari Minggu ibadah sore</li>
+            <li>Dalam Sehari harus bisa menyisihkan uang jajan</li>
+</div>
+<br>
+<br>
+<a href ="Tugas1 Platform_205314075.html">back</a>
+</body>
+		
